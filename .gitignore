@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Executable files
+*.out
+*.o
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+
+.vscode/
+.idea/
+
+# Docker-related files
+.env
+
+# Test and coverage files
+*.test
+*.cover
+
+# Miscellaneous
+__debug_bin
